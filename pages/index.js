@@ -97,13 +97,24 @@ export default index;
 // }
 
 //!called only during the build of the project [Local file Based]
-export function getStaticProps(context) {
+// export function getStaticProps(context) {
+//   // console.log("SERVER SIDE", services);
+
+//   return {
+//     props: {
+//       services: dataServices,
+//     },
+//     revalidate: 360,
+//   };
+// }
+
+// //!called every time  the page refreshed [Local file Based]
+export async function getServerSideProps(context) {
   // console.log("SERVER SIDE", services);
 
   return {
     props: {
       services: dataServices,
     },
-    revalidate: 360,
   };
 }
