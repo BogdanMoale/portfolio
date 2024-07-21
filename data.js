@@ -82,22 +82,29 @@ export const personalSkills = [
   {
     Icon: BsCircleFill,
     name: "Team Player",
-    level: "85",
+    level: "80",
   },
   {
     Icon: BsCircleFill,
     name: "Fast Learner",
-    level: "80",
+    level: "85",
   },
   {
     Icon: BsCircleFill,
     name: "Focused",
     level: "90",
   },
+
   {
     Icon: BsCircleFill,
-    name: "Calm",
-    level: "85",
+    name: "Proactive",
+    level: "95",
+  },
+
+  {
+    Icon: BsCircleFill,
+    name: "Focused",
+    level: "90",
   },
 ];
 
