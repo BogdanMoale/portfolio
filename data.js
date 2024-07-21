@@ -107,7 +107,7 @@ export const projects = [
     id: 1,
     name: "Project Management",
     description: "Simple project management app made with react and vite",
-    image_path: "/images/projects/project-management.PNG",
+    image_path: "/images/projects/project-management.png",
     deployed_url: "https://project-management-nu-mocha.vercel.app/",
     github_url: "https://github.com/BogdanMoale/Project-Management",
     category: ["React"],
@@ -116,7 +116,7 @@ export const projects = [
   {
     id: 2,
     name: "Pathfinding Visualizer",
-    image_path: "/images/projects/path-finding-visualiser.PNG",
+    image_path: "/images/projects/path-finding-visualiser.png",
     deployed_url: "https://bogdanmoale.github.io/Pathfinding-Visualizer//",
     github_url:
       "https://github.com/BogdanMoale/Pathfinding-Visualizer?tab=readme-ov-file",
@@ -129,7 +129,7 @@ export const projects = [
   {
     id: 3,
     name: "Sorting Visualizer",
-    image_path: "/images/projects/sorting-visualiser.PNG",
+    image_path: "/images/projects/sorting-visualiser.png",
     deployed_url: "https://bogdanmoale.github.io/Sorting-Visualizer/",
     github_url: "https://github.com/BogdanMoale/Sorting-Visualizer",
     category: ["JavaScript"],
