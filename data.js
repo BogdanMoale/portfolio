@@ -100,12 +100,6 @@ export const personalSkills = [
     name: "Proactive",
     level: "95",
   },
-
-  {
-    Icon: BsCircleFill,
-    name: "Focused",
-    level: "90",
-  },
 ];
 
 export const projects = [
