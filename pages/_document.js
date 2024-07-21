@@ -14,7 +14,7 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap"
           rel="stylesheet"
         />
-        <link rel="icon" href="/icon.png" />
+        <link rel="icon" href="/icon.PNG" />
         <meta name="description" content="Moale Bogdan cv"></meta>
 
         <meta
