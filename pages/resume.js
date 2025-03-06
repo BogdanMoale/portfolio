@@ -55,22 +55,23 @@ function ResumePage() {
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
+            <h5 className="my-2 text-xl font-bold">Software Developer</h5>
+            <p className="font-semibold">EFRATECH ( NOVEMBER 2024-Present)</p>
+            <p className="my-3">
+              My responsibilities included building new functionalities for web
+              applications using Next.js, TypeScript, JavaScript, as well as
+              fixing bugs. I also utilized GIT for version control and project
+              managemen
+            </p>
             <h5 className="my-2 text-xl font-bold">Application Engineer</h5>
             <p className="font-semibold">
-              APTIV TECHNOLOGY SERVICES (2017-Present)
+              APTIV TECHNOLOGY SERVICES ( SEPTEMBER 2017 – NOVEMBER 2024 )
             </p>
             <p className="my-3">
-              My responsibilities includes the estimation of harness assembly
-              labor for new business quotes and conducting labor analysis for
-              cable preparation and final assembly. I managed cost analysis,
-              evaluated labor expenses for engineering changes, and proposed
-              cost reduction strategies. To enhance efficiency, I developed and
-              maintained Excel VBA macros, automating tasks and streamlining
-              processes. Utilizing Excel features like formulas, charts, and
-              pivot tables, I provided insightful data visualizations. My
-              proficiency extended to implementing change requests in SAP,
-              contributing to a comprehensive approach in optimizing labor and
-              operational processes. .
+              My responsibilities included estimating harness assembly labor,
+              analyzing costs, developing Excel VBA macros for automation, and
+              implementing SAP change requests to optimize processes and reduce
+              expenses
             </p>
           </div>
         </motion.div>
