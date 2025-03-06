@@ -2,40 +2,34 @@ import { BsCircleFill } from "react-icons/bs";
 
 export const services = [
   {
-    // Icon: RiComputerLine,
+    title: "Full Stack Development",
+    about:
+      "I can build scalable and efficient web applications using <b>React.js</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>PostgreSQL</b>.",
+  },
+  {
     title: "Frontend Development",
     about:
-      "I can build a beautiful and scalable SPA using <b> HTML</b>,<b>CSS</b>   and <b>React.js</b> ",
+      "Creating dynamic, responsive, and user-friendly interfaces with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React.js</b>, and <b>Next.js</b>.",
   },
   {
-    // Icon: FaServer,
-    title: "Estimation of Harness Assembly Labor",
+    title: "Backend Development",
     about:
-      "Estimating <b>labor requirements</b> for harness assembly in new business quotes.",
+      "Developing robust server-side applications using <b>Node.js</b>, <b>Express.js</b>, and <b>RESTful APIs</b>.",
   },
   {
-    // Icon: AiOutlineApi,
-    title: "Labor Cost Management",
+    title: "Database Management",
     about:
-      "Evaluate <b>labor expenses</b>, <b>manage cost analysis</b>, and implement <b>cost reduction</b> strategies effectively. ",
+      "Designing and managing databases using <b>MongoDB</b>, <b>PostgreSQL</b>, and <b>MySQL</b>.",
   },
   {
-    // Icon: MdDeveloperMode,
-    title: "Excel and VBA Expertise",
+    title: "DevOps & Deployment",
     about:
-      "Advanced skills in Excel, including the use of <b>formulas, charts, pivot tables</b>, and <b>VBA macros</b> for automating tasks and data analysis ",
+      "Deploying applications with <b>Docker</b>, <b>CI/CD pipelines</b>, and cloud platforms like <b>Vercel</b> and <b>AWS</b>.",
   },
   {
-    // Icon: AiOutlineAntDesign,
-    title: "SAP Expertise",
-    about:
-      "Implementing change requests, managing data, and <b>optimizing</b>, operational processes. ",
-  },
-  {
-    // Icon: RiComputerLine,
     title: "Data Visualization",
     about:
-      "Create insightful <b>data visualizations</b> and reports to support decision-making and communicate findings clearly",
+      "Transforming raw data into meaningful insights using <b>Python</b>, <b>Pandas</b>, and <b>Power BI</b>.",
   },
 ];
 
